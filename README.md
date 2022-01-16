@@ -5,4 +5,4 @@
 * використати інший плагін слайдера для реалізації
 ---
 
-![silder](./slider.png "slider")
+![silder](slider.png "slider")
